@@ -1,2 +1,3 @@
-# Public
-Welcome to my public repository
+# Ragnarork
+Welcome to my the Ragnarork repository. 
+Check back for updates.
