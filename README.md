@@ -1,3 +1,3 @@
 # Ragnarork
-Welcome to the Ragnarork repository. 
-Branch 23
+Welcome to my the Ragnarork repository. 
+Check back for updates.
