@@ -1,0 +1,19 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Run a one-line script
+      run: echo Greetings one and all!
+    - name: Run a multi-line script
+      run: echo Testing git command line uddates
+        echo Check back in a few days I will begin
+        echo deploying to this repository.
+        echo Thanks!
+        echo -R
